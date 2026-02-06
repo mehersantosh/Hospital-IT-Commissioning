@@ -1,0 +1,21 @@
+# Disaster Recovery (DR) & Business Continuity Plan – Hospital IT
+
+DR and BCP are mandatory for hospital operations.
+
+## DR Objectives
+- Protect patient data
+- Ensure system availability
+- Minimize downtime
+- Enable safe clinical operations
+
+## Key Components
+- Data backup strategy (frequency, retention)
+- Restore testing schedule
+- Failover procedures
+- Manual downtime workflows
+
+## BCP Considerations
+- Alternate registration process
+- Manual billing fallback
+- Communication protocols
+- Post-incident review and improvement

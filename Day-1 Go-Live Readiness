@@ -1,0 +1,22 @@
+# Day-1 Go-Live Readiness Framework
+
+Hospital IT go-live success depends on preparedness, not perfection.
+
+## Critical Success Factors
+- All clinical workflows must function without disruption
+- IT support must be visible and accessible
+- Escalation paths must be clear
+- Downtime procedures must be known
+
+## Day-1 Focus Areas
+- OPD registration and billing
+- IPD admission and discharge
+- Laboratory sample processing
+- Radiology reporting
+- Pharmacy operations
+
+## On-Go-Live Best Practices
+- War-room setup with stakeholders
+- Real-time issue tracking
+- Immediate decision-making authority
+- Clear communication to clinical teams

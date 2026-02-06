@@ -1,0 +1,28 @@
+# Hospital IT Commissioning Checklist
+
+This checklist ensures IT readiness before hospital go-live.
+
+## Infrastructure Readiness
+- Data center / server room operational
+- Network backbone tested (LAN/WAN)
+- Redundant internet links configured
+- Wi-Fi coverage validated in all clinical areas
+- Power backup (UPS / DG) tested
+
+## Core Systems
+- HIS / HMIS configured and tested
+- EMR workflows validated with clinicians
+- LIS, PACS, RIS integrated and tested
+- Billing and reporting verified
+
+## End-User Readiness
+- Workstations deployed and tested
+- Printers, scanners, barcode devices configured
+- User roles and access controls validated
+- Login credentials issued
+
+## Security & Compliance
+- Access control policies implemented
+- Audit logs enabled
+- Data privacy controls in place
+- Antivirus / endpoint security deployed
